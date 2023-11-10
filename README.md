@@ -28,3 +28,6 @@
 | Age | Возраст, сделавшего заказ |
 | Gender | Пол, сделавшего заказ |
 | Default | Дефолтнул ли по этой покупке? 1 - да, 0 - нет. |
+
+### Используемые библиотеки
+Numpy, pandas, matplotlib, category_encoders, pickle, sklearn, catboost
